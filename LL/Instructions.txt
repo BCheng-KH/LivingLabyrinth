@@ -1,0 +1,27 @@
+Welcome to the living labyrinth! 
+On your wild adventures to recover a hidden treasure, you found yourself lost among 
+the corridors that surround you.But you found out something far scarier 
+- the labyrinth is alive!
+But after snooping around, you quickly notice that the labyrinth is being 
+controlled by a drone. Although escaping with your life would be nice, 
+you want REVENGE! Find the drone, and destroy it. 
+But beware, the drone will try to evade you and landscape around you 
+can suddenly shift at a moments notice!
+And don't forget, you aren't the first to fall into the drone's trap, 
+the drone has learned how to effectively trap you from the many other
+adventurers who suffered a fate which you would like to avoid. 
+
+Use WASD to move. You can move up to twice per turn. 
+
+You can hear the drone and pinpoint its exact location 
+at all times, but you can only see the spaces around you. 
+
+The drone can move once per turn, and place up to two walls, 
+blocking movement for both you and itself. 
+
+You will have 1000 points at the start of each level, with each move costing 50 points. 
+Your final score will be taken as the sum of your points in each level. 
+
+The drone can see you on certain spaces depending on the difficulty of the level. 
+
+Eventually it will be able to see the entire maze. 
