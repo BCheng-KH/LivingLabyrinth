@@ -12,16 +12,16 @@ the drone has learned how to effectively trap you from the many other
 adventurers who suffered a fate which you would like to avoid. 
 
 Use WASD to move. You can move up to twice per turn. 
-
 You can hear the drone and pinpoint its exact location 
 at all times, but you can only see the spaces around you. 
-
 The drone can move once per turn, and place up to two walls, 
 blocking movement for both you and itself. 
 
 You will have 1000 points at the start of each level, with each move costing 50 points. 
 Your final score will be taken as the sum of your points in each level. 
-
 The drone can see you on certain spaces depending on the difficulty of the level. 
-
 Eventually it will be able to see the entire maze. 
+
+Alternatively, you can toggle the game mode and play as the drone!
+When the "Toggle Game Mode" button is blue you play as the adventurer (runner)
+When the "Toggle Game Mode" button is green, you play as the drone (chaser)
